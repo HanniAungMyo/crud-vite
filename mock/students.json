@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Kyaw Kyaw",
+      "phone": "09134532",
+      "Batch": "BUD Web ",
+      "course": "BUD",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "name": "Hla Hla",
+      "phone": "09123123123",
+      "Batch": "BUD Nov Weekday",
+      "course": "BUD"
+    },
+    {
+      "id": 4,
+      "name": "Aye Aye",
+      "phone": "09123123123",
+      "Batch": "PUD Dec Weekend",
+      "course": "PUD"
+    },
+    {
+      "name": "tun tun",
+      "phone": "092345678",
+      "Batch": "SWD June Weekday",
+      "course": "SWD",
+      "id": 5
+    }
+  ]

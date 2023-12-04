@@ -1,0 +1,36 @@
+  [
+      {
+        "id": 1,
+        "name": "SWD June WeekDay"
+      },
+      {
+        "id": 2,
+        "name": "SWD June WeekEnd"
+      },
+      {
+        "id": 3,
+        "name": "SWD Aug WeekDay"
+      },
+      {
+        "id": 4,
+        "name": "SWD Oct WeekDay"
+      },
+      {
+        "name": "My Testing",
+        "id": 6
+      },
+      {
+        "id": 7,
+        "name": "PUD Dec WeekDay"
+      },
+      {
+        "name": "workshop Dec 2023",
+        "id": 8
+      },
+      {
+        "react": "Dec 2023",
+        "id": 9
+      }
+    ]
+    
+  
